@@ -1,8 +1,5 @@
 # Numpy-Pandas
-Here’s a **clean, professional, resume-ready README** you can **directly copy-paste** into your GitHub repo.
-It’s written exactly in the style recruiters, mentors, and hackathon judges expect.
 
----
 
 # 📊 Student Performance Analysis using Pandas & NumPy
 
@@ -41,7 +38,6 @@ The analysis uses **Pandas and NumPy** to perform data cleaning, feature enginee
 * Python
 * Pandas
 * NumPy
-* Matplotlib (for basic visualization)
 * Jupyter Notebook / Kaggle Notebook
 
 ---
@@ -80,21 +76,11 @@ High-performing students exhibited lower score variability, indicating balanced 
 
 ---
 
-## 📊 Visualizations
-
-Basic visualizations were used to support insights, such as:
-
-* Average scores by performance level
-* Group-wise comparisons using bar charts
-
----
-
 ## ✅ Key Learnings
 
 * Hands-on experience with Pandas `groupby`, aggregation, and feature engineering
 * Translating raw data into meaningful insights
 * Structuring analysis for real-world decision-making
-* Creating a portfolio-ready data analysis project
 
 ---
 
@@ -126,12 +112,3 @@ The insights derived can help institutions design targeted interventions to impr
 
 > Analyzed student performance data using Pandas & NumPy, applied feature engineering and group-based analysis to derive actionable educational insights.
 
----
-
-If you want, next I can:
-
-* 🔹 Tailor this README **specifically for internships**
-* 🔹 Shorten it for **hackathon submission**
-* 🔹 Rewrite it in a **storytelling style for LinkedIn**
-
-Just tell me 👍
